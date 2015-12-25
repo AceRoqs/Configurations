@@ -20,7 +20,7 @@
   </PropertyGroup>
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
-    <ConfigurationsDir>$(SolutionDir)Configurations\</ConfigurationsDir>
+    <ConfigurationsDir>$(SolutionDir)..\Configurations\</ConfigurationsDir>
     <ConsoleApp>false</ConsoleApp>
   </PropertyGroup>
   <PropertyGroup />
